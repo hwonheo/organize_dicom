@@ -1,0 +1,10 @@
+# 실행 방법
+
+1. organize_dicom.py와 run_organize_dicom.bat 파일을 동일한 디렉토리에 저장합니다.
+
+2. 명령 프롬프트 또는 파워쉘을 열고 배치 파일을 실행합니다. 예를 들어, C:\scripts 디렉토리에 파일이 저장된 경우:
+
+    <powershell>
+        cd C:\scripts
+        run_organize_dicom.bat "C:\dicom_data"
+    
